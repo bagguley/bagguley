@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and tinkering with Raspberry Pis
 - 🌱 I’m currently learning Godot, Kotlin, Flutter and Dart
 - 💞️ I’m looking to collaborate on start-up ideas
-- 📫 How to reach me ...
+- 📫 Email me at bagguley at gmail dot com
 - ☕ Support me [on ko-fi](https://ko-fi.com/bagguley)
 
 <!---
